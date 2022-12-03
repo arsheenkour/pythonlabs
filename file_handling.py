@@ -1,3 +1,4 @@
+#Python code for file-handling
 file1=open("myfile.txt","w")
 L= ["this is delhi \n","this is paris \n","this is london \n"]
 file1.write("hello \n")
