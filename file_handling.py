@@ -1,4 +1,5 @@
-#Python code for file-handling
+#Python code for file-handling process
+# This is a beginner program
 file1=open("myfile.txt","w")
 L= ["this is delhi \n","this is paris \n","this is london \n"]
 file1.write("hello \n")
