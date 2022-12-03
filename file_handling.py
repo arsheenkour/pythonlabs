@@ -1,5 +1,7 @@
 #Python code for file-handling process
 # This is a beginner program
+#lets begin
+
 file1=open("myfile.txt","w")
 L= ["this is delhi \n","this is paris \n","this is london \n"]
 file1.write("hello \n")
